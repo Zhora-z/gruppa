@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main(){
+  cout << "Введите 1 число" << endl;
+  int a;
+  cin >> a;
+  cout << "Введите 2 число" << endl;
+  int b;
+  cin >> b;
+  if (a==b){
+    cout << "Числа равны" << endl;
+  }
+  else{
+    cout << "Чиcла не равны" << endl;
+  }
+}
