@@ -1,1 +1,52 @@
-AБВ
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>My Coffie</title>
+</head>
+<body>
+<h1>Заглавный текст</h1>
+<h2>Заглавный текст поменьше</h2>
+<h3>Заглавный текст поменьше</h3>
+<h4>Заглавный текст поменьше</h4>
+<h5>Заглавный текст поменьше</h5>
+<h6>Заглавный текст поменьше</h6>
+<divstyle="background: #47dcd3; width: 300px; height:500px" >
+text
+</div>
+
+<p>Текст</p>
+Под ним линиия
+<hr>
+
+<button> Текст кнопки </button>
+<ol>
+<li> Элемент списка </li>
+<li> Элемент списка </li>
+<li> Элемент списка </li>
+</ol>
+
+<ul>
+<li> Элемент списка </li>
+<li> Элемент списка </li>
+<li> Элемент списка </li>
+</ul>
+
+<table>
+<tr>
+<td>Раз</td>
+<td>Два</td>
+<td>Три</td>
+</tr>
+
+<tr>
+<td>Четыре</td>
+<td>Пять</td>
+<td>Шесть</td>
+</tr>
+</table>
+
+
+</body>
+</html>
